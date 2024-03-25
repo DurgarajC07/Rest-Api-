@@ -1,0 +1,73 @@
+[
+  {
+    "name":"iphone",
+    "price":154,
+    "featured":true,
+    "company":"apple"
+  },
+  {
+    "name":"iphone10",
+    "price":174,
+    "featured":true,
+    "company":"apple"
+  },
+  {
+    "name":"iphone12",
+    "price":184,
+    "featured":true,
+    "company":"apple"
+  },
+  {
+    "name":"iphone13",
+    "price":194,
+    "company":"apple"
+  },
+  {
+    "name":"iwatch",
+    "price":154,
+    "company":"apple"
+  },
+  {
+    "name":"dell laptop",
+    "price":154,
+ 
+    "company":"dell"
+  },
+  {
+    "name":"samsung s24 ultra",
+    "price":154,
+    "company":"samsung"
+  },
+  {
+    "name":"smartwatch",
+    "price":154,
+    "company":"samsung"
+  },
+  {
+    "name":"dell mouse",
+    "price":154,
+    "company":"dell"
+  },
+  {
+    "name":"samsungs23",
+    "price":154,
+    "company":"samsung"
+  },
+  {
+    "name":"mi band watch",
+    "price":154,
+    "company":"mi"
+  },
+  {
+    "name":"mi 10",
+    "price":154,
+    "company":"mi"
+  },
+  {
+    "name":"minote8",
+    "price":154,
+    "company":"mi"
+  }
+  
+ 
+]
