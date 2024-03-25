@@ -40,7 +40,7 @@ const getALLProducts = async (req,res) => {
   console.log(querryObject);
 
   const Products = await apiData;
-  res.status(200).json({myData,nbHits:Products.length});
+  res.status(200).json({Products,nbHits:Products.length});
 };
 
 const getALLProductsTesting = async (req,res) => {
